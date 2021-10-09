@@ -1,0 +1,25 @@
+{
+  "id": "be.lgit.bayesian",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "name": {
+    "en": "Bayesian Sensor"
+  },
+  "description": {
+    "en": "Adds a bayesian sensor to Homey.",
+  },
+  "category": [
+    "internet"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Levi Govaerts",
+    "email": "legovaer@me.com"
+  }
+}
